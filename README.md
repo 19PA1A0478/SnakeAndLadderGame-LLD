@@ -1,6 +1,6 @@
 # SnakeAndLadderGame-LLD
 
- #### Problem Statement
+ ### Problem Statement
 
 Create a snake and ladder application.
 
@@ -20,7 +20,7 @@ After taking these inputs, you should print all the moves in the form of the cur
 
 When someone wins the game, print that the player won the game.
 
-#### Rules of the game
+### Rules of the game
 
 - Each player has a piece which is initially kept outside the board (i.e., at position 0).
 
@@ -44,10 +44,10 @@ When someone wins the game, print that the player won the game.
 
 - There could be another snake/ladder at the tail of the snake or the end position of the ladder and the piece should go up/down accordingly.
 
-#### Link for Video
+### Link for Video
 https://youtu.be/t-FfhYmdiC8
 
-#### Output
+### Output
 
 ![image](https://user-images.githubusercontent.com/60468171/145785986-5991b686-e51f-4941-8f83-78fa81a8ef6d.png)
 
